@@ -1,8 +1,8 @@
 # Weather App
 
-Here, I have created a React app that displays the information by entering city names worldwide.
+<p>Here, I have created a React app that displays the information by entering city names worldwide.</p>
 
-Visit for demo
+<p>Visit for demo</p>
 <a href="https://amritrv2604.github.io/react-weather-app/">Weather App</a>
 
 Currently, two official plugins are available:

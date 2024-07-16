@@ -1,6 +1,8 @@
-# React + Vite
+# Weather App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Here, I have created a React app that displays the information by entering city names worldwide.
+
+Visit for demo
 
 Currently, two official plugins are available:
 
